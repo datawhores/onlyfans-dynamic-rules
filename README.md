@@ -8,9 +8,6 @@ https://github.com/datawhores/OF-Scraper
 ## Donate
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/datawhores)
 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/datawhores)
-
 <div>
       <h4>btc</h4>
     <a href="https://raw.githubusercontent.com/datawhores/OF-Scraper/main/donate/btc">
